@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">android_rest</string>
+    <string name="hello_world">Esto es una prueba</string>
+    <string name="action_settings">Settings</string>
+    <string name="boton">rest</string>
+
+</resources>
